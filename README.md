@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iuashrafi
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React + Redux
+- 🌱 I’m currently learning MERN Stack and DSA
 - 💞️ I’m looking to collaborate on any web projects that suits my taste
 - 📫 How to reach me "iuashrafi@gmail.com"
 
