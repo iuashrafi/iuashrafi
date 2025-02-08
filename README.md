@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Imtiaz Uddin</h1>
+<h1 align="center">Hi 👋, I'm Imtiaz Uddin Ashrafi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
-
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🪴 Working on few personal projects
 - 📫 How to reach me **iuashrafi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
